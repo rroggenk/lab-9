@@ -3,6 +3,7 @@ title: "Lab 9: Art Gallery"
 author: "Rachel Roggenkemper"
 format: html
 editor: visual
+embed-resources: true
 ---
 
 ## Set Up
